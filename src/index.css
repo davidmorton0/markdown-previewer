@@ -2,6 +2,7 @@ body {
   font-family: 'Muli', sans-serif;
   background-color: #5db1de;
   line-height: 1em;
+  min-width: 400px;
 }
 
 textarea, #preview {
@@ -25,6 +26,7 @@ footer {
   left: 0;
   bottom: 0;
   width: 100%;
+  min-width: 400px;
 }
 
 #main-h1 {
