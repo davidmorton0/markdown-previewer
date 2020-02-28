@@ -1,7 +1,11 @@
 # Markdown Previewer
 
-The page shows random quotes from the Hitch Hikers Guide to the Galaxy series by Douglas Adams.
-The page was made as a project as part of the Free Code Camp course on Front End Libraries.  It uses React and obtains the quote information from another webpage using a fetch request:
+The page converts markdown text into html using the Marked.js library.
+The page was made as a project as part of the Free Code Camp course on Front End
+Libraries using React.
+
+Text entered into the 'markdown' box will be converted into html and shown in
+the 'html' box.  The html output is shown in the 'preview' box.
 
 ## Markdown Previewer Tests
 
